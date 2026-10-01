@@ -1,0 +1,37 @@
+[
+  {
+    "query_id": "q01",
+    "question": "What is CloudScale's total Remaining Performance Obligations (RPO) and what fraction will be recognized in the next 12 months?",
+    "ground_truth_answer": "CloudScale's remaining performance obligations (RPO) totaled $4.82 billion as of December 31, 2024, of which 58% is expected to be recognized as subscription revenue over the next 12 months.",
+    "target_section_id": "sec_revenue_rec",
+    "key_entities": ["$4.82 billion", "58%", "12 months", "remaining performance obligations"]
+  },
+  {
+    "query_id": "q02",
+    "question": "How much did CloudScale spend on capital expenditures in fiscal 2024, and what was the main driver?",
+    "ground_truth_answer": "Capital expenditures were $1.74 billion in fiscal 2024 (compared to $980 million in 2023), driven primarily by investments in high-density GPU clusters and custom server racks for generative AI inference.",
+    "target_section_id": "sec_capital_exp",
+    "key_entities": ["$1.74 billion", "$980 million", "GPU clusters", "generative AI inference"]
+  },
+  {
+    "query_id": "q03",
+    "question": "What would be the financial impact of a 10% adverse change in the US Dollar on operating income?",
+    "ground_truth_answer": "A hypothetical 10% adverse change in the US Dollar relative to invoiced foreign currencies would have decreased operating income by approximately $84.5 million in fiscal 2024.",
+    "target_section_id": "sec_foreign_fx",
+    "key_entities": ["10% adverse change", "$84.5 million", "operating income"]
+  },
+  {
+    "query_id": "q04",
+    "question": "What is CloudScale's cyber liability insurance coverage and what are its notable policy exclusions?",
+    "ground_truth_answer": "CloudScale maintains $100 million in aggregate cyber liability insurance with a $5 million per-incident deductible. The policy explicitly excludes coverage for state-sponsored cyber warfare or systemic telecommunications infrastructure outages.",
+    "target_section_id": "sec_cyber_risk",
+    "key_entities": ["$100 million", "$5 million deductible", "state-sponsored cyber warfare"]
+  },
+  {
+    "query_id": "q05",
+    "question": "What was CloudScale's consolidated net leverage ratio as of December 31, 2024, and what is the maximum covenant allowed?",
+    "ground_truth_answer": "As of December 31, 2024, the consolidated net leverage ratio was 1.82 to 1.00, well below the maximum covenant ceiling of 3.50 to 1.00.",
+    "target_section_id": "sec_debt_covenants",
+    "key_entities": ["1.82 to 1.00", "3.50 to 1.00", "net leverage ratio"]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "doc_id": "SEC_10K_CLOUD_CORP_2024",
+    "title": "CloudScale Inc. Form 10-K (Fiscal Year 2024) - Risk Factors & MD&A",
+    "sections": [
+      {
+        "section_id": "sec_revenue_rec",
+        "header": "Item 7. Management's Discussion - Revenue Recognition & Multi-Year Contracts",
+        "content": "For multi-year enterprise subscription arrangements, revenue is recognized ratably over the contract term beginning on the date the customer is provisioned access to the cloud environment. Transaction prices allocated to distinct performance obligations are determined based on standalone selling price (SSP). As of December 31, 2024, our remaining performance obligations (RPO) totaled $4.82 billion, of which 58% is expected to be recognized as subscription revenue over the next 12 months, and the remainder thereafter. Professional services revenue is recognized separately under the proportional performance method as billable milestone hours are delivered."
+      },
+      {
+        "section_id": "sec_capital_exp",
+        "header": "Item 7. Capital Expenditures & AI Infrastructure Commitments",
+        "content": "Capital expenditures for fiscal 2024 were $1.74 billion, compared to $980 million in fiscal 2023, driven primarily by investments in high-density graphics processing unit (GPU) clusters and custom server racks for our generative AI inference platform. In fiscal 2024, we entered into irrevocable non-cancellable purchase obligations totaling $2.15 billion with third-party semiconductor fabricators and data center colocation providers, payable across fiscal years 2025 and 2026. Management expects capital expenditures for fiscal 2025 to increase by an additional 25% to 30% to expand our Frankfurt and Singapore regional availability zones."
+      },
+      {
+        "section_id": "sec_foreign_fx",
+        "header": "Item 7A. Quantitative and Qualitative Disclosures About Market Risk - Currency Risk",
+        "content": "Our international revenues represented 39% of consolidated net revenue for fiscal 2024. Our international billings are predominantly denominated in Euros, British Pounds, and Japanese Yen, while the vast majority of our cost of revenue and engineering payroll is denominated in US Dollars. A hypothetical 10% adverse change in the value of the US Dollar relative to the foreign currencies in which our sales are invoiced would have decreased our operating income by approximately $84.5 million in fiscal 2024. We utilize rolling 12-month forward contracts to hedge up to 60% of anticipated non-USD operational expenditures."
+      },
+      {
+        "section_id": "sec_cyber_risk",
+        "header": "Item 1A. Risk Factors - Cybersecurity and Tenant Isolation Faults",
+        "content": "Our multi-tenant hypervisor architecture processes confidential financial and patient health data for over 4,200 regulated global enterprise clients. Any unauthorized breach, side-channel attack (including microarchitectural speculative execution vulnerabilities), or API token compromise could lead to data exfiltration and liability under GDPR and HIPAA. While we maintain $100 million in aggregate cyber liability insurance, our insurance policies carry a $5 million per-incident deductible and exclude coverage for state-sponsored cyber warfare or systemic telecommunications infrastructure outages."
+      },
+      {
+        "section_id": "sec_debt_covenants",
+        "header": "Item 8. Note 9 - Long-Term Debt and Liquidity Facilities",
+        "content": "In August 2023, the Company issued $1.25 billion in aggregate principal amount of 2.75% senior convertible notes due 2029. The notes carry a conversion price of $142.50 per share. The revolving credit facility requires the Company to maintain a consolidated net leverage ratio of not greater than 3.50 to 1.00 as of the end of each fiscal quarter. As of December 31, 2024, our consolidated net leverage ratio was 1.82 to 1.00, and we were in full compliance with all restrictive financial covenants. Total available undrawn liquidity under the credit facility stood at $650 million."
+      }
+    ]
+  }
+]
